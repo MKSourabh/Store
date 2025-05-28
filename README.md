@@ -6,8 +6,7 @@ An entrepreneur & Head Designer at Sandya Designer Boutique specializing in trad
 
 ## Visit our 🌐Online Store: https://sandyadesignerboutique.github.io/Store/
 
-### Find Us Here: 
-https://linktr.ee/sandyadesignerboutique
+### Find Us Here: https://linktr.ee/sandyadesignerboutique
 
 At Sandya Designer Boutique, we bring tradition and trend together. Specializing in bridal maggam work, custom lehengas and pattern blouses, elegant long frocks, western wear, kids wear and vast collection of sarees, our boutique celebrates craftsmanship and creativity. 
 
@@ -27,6 +26,6 @@ Every piece is thoughtfully designed and tailored to reflect your style, whether
 
 ---
 
-### Website created by Kireeti Sourabh Mangalampally (Son)
+#### Website created by Kireeti Sourabh Mangalampally (Son)
 
 ---
