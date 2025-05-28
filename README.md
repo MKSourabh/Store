@@ -6,7 +6,7 @@
 
 ## ✨Welcome to SANDYA DESIGNER BOUTIQUE✨
 
-<img src="https://i.postimg.cc/RZrv5VJZ/20250520-054002000-i-OS.jpg" alt="Founder - Sandhya Rani" width="200"/> <img src="https://i.postimg.cc/RZc4M5wQ/clear.png" alt="Founder - Sandhya Rani" width="300"/>
+<img src="https://i.postimg.cc/RZrv5VJZ/20250520-054002000-i-OS.jpg" alt="Founder - Sandhya Rani" width="200"/> <img src="https://i.postimg.cc/RZc4M5wQ/clear.png" alt="Founder - Sandhya Rani" width="500"/>
 
 ### Visit our 🌐Online Store: https://sandyadesignerboutique.github.io/Store/
 
