@@ -34,7 +34,7 @@ Every piece is thoughtfully designed and tailored to reflect your style, whether
 
 ---
 
-<img src="https://i.postimg.cc/CKxhJywJ/Creator.png" alt="Creator - Kireeti Sourabh Mangalampally" width="150"/>
+<img src="https://i.postimg.cc/CKxhJywJ/Creator.png" alt="Creator - Kireeti Sourabh Mangalampally" width="200"/>
 
 Website created by Kireeti Sourabh Mangalampally (Son)
 
