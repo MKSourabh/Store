@@ -1,5 +1,7 @@
 # SANDHYA RANI MANGALAMPALLY
 
+![Founder - Sandhya Rani](https://i.postimg.cc/3RFXPTmr/Founder.jpg)
+
 An entrepreneur & Head Designer at Sandya Designer Boutique specializing in traditional Indian ethnic wear.
 
 ## ✨Welcome to SANDYA DESIGNER BOUTIQUE✨
