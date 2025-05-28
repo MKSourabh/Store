@@ -2,9 +2,9 @@
 
 An entrepreneur & Head Designer at Sandya Designer Boutique specializing in traditional Indian ethnic wear.
 
-# Welcome to ✨SANDYA DESIGNER BOUTIQUE✨
+## ✨Welcome to SANDYA DESIGNER BOUTIQUE✨
 
-## Visit our 🌐Online Store: https://sandyadesignerboutique.github.io/Store/
+### Visit our 🌐Online Store: https://sandyadesignerboutique.github.io/Store/
 
 ### Find Us Here: https://linktr.ee/sandyadesignerboutique
 
@@ -12,7 +12,7 @@ At Sandya Designer Boutique, we bring tradition and trend together. Specializing
 
 Every piece is thoughtfully designed and tailored to reflect your style, whether for a wedding, a festive occasion, or a casual celebration. From intricate handwork to contemporary cuts, we make fashion truly personal.
 
-## Follow us on Instagram for the latest lehengas, sarees, and more! 🧵👗💫
+### Follow us on Instagram for the latest lehengas, sarees, and more! 🧵👗💫
 
 🌍 Worldwide Shipping | 🇮🇳 Made in India
 
