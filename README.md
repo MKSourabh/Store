@@ -29,5 +29,6 @@ Every piece is thoughtfully designed and tailored to reflect your style, whether
 ---
 
 Website created by Kireeti Sourabh Mangalampally (Son)
+<img src="https://i.postimg.cc/CKxhJywJ/Creator.png" alt="Founder - Sandhya Rani" width="250"/>
 
 ---
