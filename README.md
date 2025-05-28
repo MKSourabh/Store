@@ -12,7 +12,7 @@ At Sandya Designer Boutique, we bring tradition and trend together. Specializing
 
 Every piece is thoughtfully designed and tailored to reflect your style, whether for a wedding, a festive occasion, or a casual celebration. From intricate handwork to contemporary cuts, we make fashion truly personal.
 
-### Follow us on Instagram for the latest lehengas, sarees, and more! 🧵👗💫
+## Follow us for the latest lehengas, sarees, and more! 🧵👗💫
 
 🌍 Worldwide Shipping | 🇮🇳 Made in India
 
