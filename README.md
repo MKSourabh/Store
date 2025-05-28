@@ -2,9 +2,11 @@
 
 <img src="https://i.postimg.cc/3RFXPTmr/Founder.jpg" alt="Founder - Sandhya Rani" width="200"/>
 
-An entrepreneur & Head Designer at Sandya Designer Boutique specializing in traditional Indian ethnic wear.
+### An entrepreneur & Head Designer at Sandya Designer Boutique specializing in traditional Indian ethnic wear.
 
 ## ✨Welcome to SANDYA DESIGNER BOUTIQUE✨
+
+<img src="https://i.postimg.cc/RZrv5VJZ/20250520-054002000-i-OS.jpg" alt="Founder - Sandhya Rani" width="200"/>
 
 ### Visit our 🌐Online Store: https://sandyadesignerboutique.github.io/Store/
 
