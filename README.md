@@ -1,6 +1,6 @@
 # SANDHYA RANI MANGALAMPALLY
 
-<img src="https://i.postimg.cc/3RFXPTmr/Founder.jpg" alt="Founder - Sandhya Rani" width="250"/>
+<img src="https://i.postimg.cc/3RFXPTmr/Founder.jpg" alt="Founder - Sandhya Rani" width="200"/>
 
 An entrepreneur & Head Designer at Sandya Designer Boutique specializing in traditional Indian ethnic wear.
 
@@ -30,6 +30,6 @@ Every piece is thoughtfully designed and tailored to reflect your style, whether
 
 Website created by Kireeti Sourabh Mangalampally (Son)
 
-<img src="https://i.postimg.cc/CKxhJywJ/Creator.png" alt="Founder - Sandhya Rani" width="100"/>
+<img src="https://i.postimg.cc/CKxhJywJ/Creator.png" alt="Founder - Sandhya Rani" width="200"/>
 
 ---
