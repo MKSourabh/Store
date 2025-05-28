@@ -27,6 +27,6 @@ Every piece is thoughtfully designed and tailored to reflect your style, whether
 
 ---
 
-**Website created by Kireeti Sourabh Mangalampally (Son)**
+### **Website created by Kireeti Sourabh Mangalampally (Son)**
 
 ---
